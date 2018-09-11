@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiffTextFiles", "DiffTextFiles\DiffTextFiles.csproj", "{971EE19E-DDA3-4EC3-9CFA-18BEC0CF3DAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{971EE19E-DDA3-4EC3-9CFA-18BEC0CF3DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971EE19E-DDA3-4EC3-9CFA-18BEC0CF3DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971EE19E-DDA3-4EC3-9CFA-18BEC0CF3DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971EE19E-DDA3-4EC3-9CFA-18BEC0CF3DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3969CAED-9542-4F0F-9324-5293DC482D15}
+	EndGlobalSection
+EndGlobal
